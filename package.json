@@ -1,0 +1,25 @@
+{
+  "name": "flodux",
+  "version": "0.1.0",
+  "description": "Flux library builded to work great with flow type system",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nitive/flodux.git"
+  },
+  "keywords": [
+    "flow",
+    "redux",
+    "types",
+    "flux"
+  ],
+  "author": "Maxim Samoilov <nitive@icloud.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nitive/flodux/issues"
+  },
+  "homepage": "https://github.com/Nitive/flodux#readme"
+}
