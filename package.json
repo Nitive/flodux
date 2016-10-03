@@ -4,6 +4,7 @@
   "description": "Flux library builded to work great with flow type system",
   "main": "index.js",
   "scripts": {
+    "start": "npm test -- --watch",
     "test": "jest"
   },
   "repository": {
