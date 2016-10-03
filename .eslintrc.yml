@@ -1,0 +1,6 @@
+extends: as
+
+env:
+  browser: false
+  node: true
+  jest: true
