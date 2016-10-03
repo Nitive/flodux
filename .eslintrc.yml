@@ -1,5 +1,7 @@
 extends: as
 
+parser: babel-eslint
+
 env:
   browser: false
   node: true

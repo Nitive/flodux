@@ -1,4 +1,5 @@
+// @flow
 
-const sum = (x, y) => x + y
+const sum = (x: number, y: number) => x + y
 
 module.exports = { sum }

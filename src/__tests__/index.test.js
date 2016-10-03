@@ -1,3 +1,5 @@
+// @flow
+
 const { sum } = require('..')
 
 test('sum', () => {
